@@ -1,0 +1,34 @@
+
+.nav-wrap{
+	
+	// height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+.nav-item{
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 35px;
+}
+.nav-item{
+	ul{
+		display: inline-block;
+		padding: 0;
+	}
+	li{
+
+		float: left;
+		text-decoration: none;
+		list-style-type: none;
+		padding-left: 35px;
+		font-size: 13px;
+	
+	}
+}
+.header-link{
+	padding-top: 35px;
+}
+.header-img{
+	padding-top: 0;
+}
